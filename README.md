@@ -1,2 +1,2 @@
 # ballin-nemesis
-Learnin, just learning
+Learnin, just learning. Finished learning.
